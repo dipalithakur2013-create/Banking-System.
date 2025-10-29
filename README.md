@@ -7,3 +7,11 @@ This program is the part of my learning journey.
 - Beginners Friendly code
 - Simple explanation 
 - Easy to understand 
+
+
+
+How to run: 
+1. https://github.com/dipalithakur2013-create/repo-BankingSystem.git
+
+2. Open it on SOLDITERY 
+3. Run the code 
