@@ -25,7 +25,7 @@ It removes the need for centralized control, allowing users to deposit, withdraw
 ---
 
 ### 🔗 Deployed Smart Contract  
-**Contract Address:**   
+**Contract Address:**  0xd8b934580fcE35a11B58C6D73aDeE468a2833fa8 
 **Network:** (e.g., Ethereum / Polygon / Celo / Binance Smart Chain)  
 
 You can view the deployed contract on your blockchain explorer using the address above.
